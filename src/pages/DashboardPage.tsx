@@ -4,7 +4,9 @@ const DashboardPages = () => {
   return (
     <>
       <Nav />
-      <h1>Dashboard</h1>
+      <div className='container'>
+        <h1>Dashboard</h1>
+      </div>
     </>
   )
 }
